@@ -75,6 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Developer**: Nikson2003
+- **Developer**: Nikson Nadar
 - **GitHub**: [Nikson2003](https://github.com/Nikson2003)
 - **Project Repository**: [Vehicle-Rental-App-using-Flutter](https://github.com/Nikson2003/Vehicle-Rental-App-using-Flutter)
